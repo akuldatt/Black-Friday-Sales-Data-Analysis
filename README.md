@@ -1,5 +1,3 @@
-# Data-Analysis
-
 # Title: Black Friday Sales Data Analysis with Error-Proof Mean Calculation
 
 Description:
